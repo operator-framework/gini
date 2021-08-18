@@ -4,8 +4,9 @@
 package gen_test
 
 import (
-	"github.com/irifrance/gini/gen"
 	"testing"
+
+	"github.com/operator-framework/gini/gen"
 )
 
 func TestRandGraph(t *testing.T) {

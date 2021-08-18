@@ -9,8 +9,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/irifrance/gini/gen"
-	"github.com/irifrance/gini/z"
+	"github.com/operator-framework/gini/gen"
+	"github.com/operator-framework/gini/z"
 )
 
 func TestSRand3Cnf(t *testing.T) {

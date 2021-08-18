@@ -4,9 +4,10 @@
 package xo
 
 import (
-	"github.com/irifrance/gini/z"
 	"sync"
 	"time"
+
+	"github.com/operator-framework/gini/z"
 )
 
 // Type Ctl encapsulates low level asynchronous control

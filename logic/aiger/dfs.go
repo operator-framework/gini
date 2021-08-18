@@ -4,8 +4,8 @@
 package aiger
 
 import (
-	"github.com/irifrance/gini/logic"
-	"github.com/irifrance/gini/z"
+	"github.com/operator-framework/gini/logic"
+	"github.com/operator-framework/gini/z"
 )
 
 type sDfs struct {

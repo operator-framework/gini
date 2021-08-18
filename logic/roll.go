@@ -3,7 +3,7 @@
 
 package logic
 
-import "github.com/irifrance/gini/z"
+import "github.com/operator-framework/gini/z"
 
 // Roll creates an unroller of sequential logic into
 // combinational logic.

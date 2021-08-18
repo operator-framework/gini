@@ -3,7 +3,7 @@
 
 package logic
 
-import "github.com/irifrance/gini/z"
+import "github.com/operator-framework/gini/z"
 
 // S adds sequential elements to C, gini's combinational
 // logic representation.

@@ -6,14 +6,15 @@ package main
 import (
 	"flag"
 	"fmt"
-	"github.com/irifrance/gini"
-	"github.com/irifrance/gini/ax"
-	"github.com/irifrance/gini/dimacs"
-	"github.com/irifrance/gini/z"
 	"io"
 	"log"
 	"runtime"
 	"time"
+
+	"github.com/operator-framework/gini"
+	"github.com/operator-framework/gini/ax"
+	"github.com/operator-framework/gini/dimacs"
+	"github.com/operator-framework/gini/z"
 )
 
 var useAx = flag.Bool("ax", false, "run the assumption exchanger for icnf inputs")

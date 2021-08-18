@@ -7,8 +7,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/irifrance/gini/gen"
-	"github.com/irifrance/gini/z"
+	"github.com/operator-framework/gini/gen"
+	"github.com/operator-framework/gini/z"
 )
 
 func TestGiniTrivUnsat(t *testing.T) {

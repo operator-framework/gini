@@ -8,7 +8,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/irifrance/gini/z"
+	"github.com/operator-framework/gini/z"
 )
 
 var cnfDat = [...][]z.Lit{

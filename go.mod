@@ -1,1 +1,1 @@
-module github.com/irifrance/gini
+module github.com/operator-framework/gini

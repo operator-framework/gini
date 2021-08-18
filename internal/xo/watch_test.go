@@ -7,7 +7,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/irifrance/gini/z"
+	"github.com/operator-framework/gini/z"
 )
 
 func TestLocOverflow(t *testing.T) {

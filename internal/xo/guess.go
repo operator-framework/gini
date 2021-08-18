@@ -6,7 +6,7 @@ package xo
 import (
 	"math"
 
-	"github.com/irifrance/gini/z"
+	"github.com/operator-framework/gini/z"
 )
 
 const (

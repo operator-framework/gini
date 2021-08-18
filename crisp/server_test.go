@@ -5,15 +5,16 @@ package crisp
 
 import (
 	"fmt"
-	"github.com/irifrance/gini/gen"
-	"github.com/irifrance/gini/internal/xo"
-	"github.com/irifrance/gini/z"
 	"log"
 	"math/rand"
 	"os"
 	"sync"
 	"testing"
 	"time"
+
+	"github.com/operator-framework/gini/gen"
+	"github.com/operator-framework/gini/internal/xo"
+	"github.com/operator-framework/gini/z"
 )
 
 func init() {

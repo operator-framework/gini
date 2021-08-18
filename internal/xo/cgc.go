@@ -6,7 +6,7 @@ package xo
 import (
 	"sort"
 
-	"github.com/irifrance/gini/z"
+	"github.com/operator-framework/gini/z"
 )
 
 // Type Cgc encapsulates clause compaction/garbage collection.

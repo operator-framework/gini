@@ -5,12 +5,13 @@ package crisp
 
 import (
 	"fmt"
-	"github.com/irifrance/gini"
-	"github.com/irifrance/gini/inter"
-	"github.com/irifrance/gini/z"
 	"log"
 	"net"
 	"os"
+
+	"github.com/operator-framework/gini"
+	"github.com/operator-framework/gini/inter"
+	"github.com/operator-framework/gini/z"
 )
 
 var trace = false

@@ -7,7 +7,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/irifrance/gini/z"
+	"github.com/operator-framework/gini/z"
 )
 
 func TestRands(t *testing.T) {

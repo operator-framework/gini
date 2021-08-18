@@ -4,8 +4,9 @@
 package net
 
 import (
-	"github.com/irifrance/gini/inter"
 	"time"
+
+	"github.com/operator-framework/gini/inter"
 )
 
 // Interface NetSolve represents an asynchronous  connection to a call to solve

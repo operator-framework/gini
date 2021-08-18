@@ -8,7 +8,7 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/irifrance/gini/z"
+	"github.com/operator-framework/gini/z"
 )
 
 // Type Cdb is the main interface to clauses.

@@ -5,13 +5,14 @@ package crisp
 
 import (
 	"fmt"
-	"github.com/irifrance/gini/dimacs"
-	gnet "github.com/irifrance/gini/inter/net"
-	"github.com/irifrance/gini/internal/xo"
-	"github.com/irifrance/gini/z"
 	"io"
 	"log"
 	"net"
+
+	"github.com/operator-framework/gini/dimacs"
+	gnet "github.com/operator-framework/gini/inter/net"
+	"github.com/operator-framework/gini/internal/xo"
+	"github.com/operator-framework/gini/z"
 )
 
 // Type Client is a concrete Solver which communicates using the gini sat protocol.

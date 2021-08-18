@@ -6,7 +6,7 @@ package inter
 import (
 	"time"
 
-	"github.com/irifrance/gini/z"
+	"github.com/operator-framework/gini/z"
 )
 
 // Interface Solveable encapsulates a decision

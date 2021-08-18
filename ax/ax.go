@@ -4,9 +4,10 @@
 package ax
 
 import (
-	"github.com/irifrance/gini/inter"
-	"github.com/irifrance/gini/z"
 	"time"
+
+	"github.com/operator-framework/gini/inter"
+	"github.com/operator-framework/gini/z"
 )
 
 // Interface T describes an assumptions exchanger (ax).

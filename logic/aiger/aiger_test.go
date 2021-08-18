@@ -8,8 +8,8 @@ import (
 	"os"
 	"testing"
 
-	"github.com/irifrance/gini/logic"
-	"github.com/irifrance/gini/z"
+	"github.com/operator-framework/gini/logic"
+	"github.com/operator-framework/gini/z"
 	//	"fmt"
 )
 

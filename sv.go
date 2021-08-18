@@ -6,8 +6,8 @@ package gini
 import (
 	"time"
 
-	"github.com/irifrance/gini/inter"
-	"github.com/irifrance/gini/z"
+	"github.com/operator-framework/gini/inter"
+	"github.com/operator-framework/gini/z"
 )
 
 type svWrap struct {

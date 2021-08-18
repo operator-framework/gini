@@ -7,9 +7,9 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/irifrance/gini"
-	"github.com/irifrance/gini/logic"
-	"github.com/irifrance/gini/z"
+	"github.com/operator-framework/gini"
+	"github.com/operator-framework/gini/logic"
+	"github.com/operator-framework/gini/z"
 )
 
 func TestUnrollComb(t *testing.T) {

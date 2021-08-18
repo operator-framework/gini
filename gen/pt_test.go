@@ -7,7 +7,7 @@ import (
 	"log"
 	"testing"
 
-	"github.com/irifrance/gini"
+	"github.com/operator-framework/gini"
 )
 
 func TestPart(t *testing.T) {

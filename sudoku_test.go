@@ -3,8 +3,8 @@ package gini_test
 import (
 	"fmt"
 
-	"github.com/irifrance/gini"
-	"github.com/irifrance/gini/z"
+	"github.com/operator-framework/gini"
+	"github.com/operator-framework/gini/z"
 )
 
 func Example_sudoku() {
